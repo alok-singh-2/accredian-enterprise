@@ -2,8 +2,8 @@
 
 A pixel-close partial clone of [enterprise.accredian.com](https://enterprise.accredian.com/) built with **Next.js 14 App Router**, **Tailwind CSS**, and a mock API route.
 
-🔗 **Live Demo:** [Deploy to Vercel — see instructions below]  
-📦 **GitHub:** [Your repo link here]
+🔗 **Live Demo:** https://accredian-enterprise-navy.vercel.app/ 
+
 
 ---
 
@@ -24,18 +24,16 @@ A pixel-close partial clone of [enterprise.accredian.com](https://enterprise.acc
 
 ---
 
-## 🚀 Setup Instructions
+ Setup Instructions
 
-### Prerequisites
+ Prerequisites
 - Node.js 18+ installed
 - npm or yarn
 
-### 1. Clone the Repository
+ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/accredian-enterprise.git
-cd accredian-enterprise
-```
+
 
 ### 2. Install Dependencies
 
@@ -60,7 +58,7 @@ npm start
 
 ---
 
-## 🌐 Deploy on Vercel
+Deploy on Vercel
 
 ### Option A — Vercel CLI
 
@@ -80,7 +78,7 @@ Follow the prompts. Vercel auto-detects Next.js and configures everything.
 
 ---
 
-## 🏗 Approach Taken
+Approach Taken
 
 ### Architecture
 
@@ -127,11 +125,11 @@ accredian-enterprise/
 
 ---
 
-## 🤖 AI Usage Explanation
+ AI Usage Explanation
 
-This project was built with **Claude (Anthropic)** as the primary AI assistant.
 
-### Where AI Helped
+
+ Where AI Helped
 
 | Area | AI Contribution |
 |---|---|
@@ -154,7 +152,7 @@ This project was built with **Claude (Anthropic)** as the primary AI assistant.
 
 ---
 
-## 🔧 Improvements With More Time
+ Improvements With More Time
 
 ### Technical
 - [ ] Add **Framer Motion** for scroll-triggered animations (currently CSS-only)
